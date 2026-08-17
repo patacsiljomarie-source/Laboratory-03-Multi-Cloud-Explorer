@@ -25,3 +25,15 @@ Google Cloud Platform is the strongest in AI and Kubernetes. Google created Kube
 
 **4. Which cloud platform would you personally choose and why?**
 *(This one is a personal opinion question — answer based on your own reasoning. For example: "I would personally choose AWS because of its wide range of services and strong community support, which makes it easier to find documentation and solutions when learning cloud computing.")*
+
+
+#checkpoint 5
+## Matching Cloud Services
+
+| **Service Category** | **AWS** | **Azure** | **GCP** |
+|---|---|---|---|
+| Virtual Machine | Amazon EC2 | Azure Virtual Machines | Compute Engine |
+| Object Storage | Amazon S3 | Azure Blob Storage | Cloud Storage |
+| Identity Management | AWS IAM | Azure Active Directory (Microsoft Entra ID) | Cloud IAM |
+| SQL Database | Amazon RDS | Azure SQL Database | Cloud SQL |
+| Kubernetes | Amazon EKS (Elastic Kubernetes Service) | Azure Kubernetes Service (AKS) | Google Kubernetes Engine (GKE) |
