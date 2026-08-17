@@ -37,3 +37,14 @@ Google Cloud Platform is the strongest in AI and Kubernetes. Google created Kube
 | Identity Management | AWS IAM | Azure Active Directory (Microsoft Entra ID) | Cloud IAM |
 | SQL Database | Amazon RDS | Azure SQL Database | Cloud SQL |
 | Kubernetes | Amazon EKS (Elastic Kubernetes Service) | Azure Kubernetes Service (AKS) | Google Kubernetes Engine (GKE) |
+
+**#Checkpoint 6**
+## Multi-Cloud Decision Matrix
+
+| **Business Requirement** | **Recommended Platform** | **Justification** |
+|---|---|---|
+| Startup Company | Google Cloud Platform (GCP) | Offers flexible, pay-as-you-go pricing and serverless options that keep costs low while still allowing the platform to scale as the business grows. |
+| Enterprise Organization | Amazon Web Services (AWS) | Provides the widest range of mature, enterprise-grade services along with a proven track record of reliability at large scale. |
+| Microsoft Environment | Microsoft Azure | Integrates natively with Windows Server, Active Directory, and Microsoft 365, minimizing migration effort for organizations already using these tools. |
+| AI / Machine Learning | Google Cloud Platform (GCP) | Offers industry-leading AI/ML tools such as Vertex AI and BigQuery, plus access to high-performance GPUs and TPUs for model training. |
+| Kubernetes Deployment | Google Cloud Platform (GCP) | Google created Kubernetes and offers the most mature managed Kubernetes service (GKE), making it the strongest choice for container orchestration. |
