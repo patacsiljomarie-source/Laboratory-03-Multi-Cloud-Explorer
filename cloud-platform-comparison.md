@@ -27,7 +27,7 @@ Google Cloud Platform is the strongest in AI and Kubernetes. Google created Kube
 *(This one is a personal opinion question — answer based on your own reasoning. For example: "I would personally choose AWS because of its wide range of services and strong community support, which makes it easier to find documentation and solutions when learning cloud computing.")*
 
 
-#checkpoint 5
+**#Checkpoint 5**
 ## Matching Cloud Services
 
 | **Service Category** | **AWS** | **Azure** | **GCP** |
