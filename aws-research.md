@@ -11,15 +11,15 @@ AWS is organized into Regions (geographic locations such as US, Singapore, etc.)
 This is the AWS Management Console — a website where you can configure and manage your AWS resources (e.g., setting up a server or storage) just by clicking, without needing to write code.
 
 #Four (4) Core Services
-EC2 – for virtual servers/computing
-S3 – for file storage
-RDS – for databases
-IAM – for managing user access
+* EC2 – for virtual servers/computing
+* S3 – for file storage
+* RDS – for databases
+* IAM – for managing user access
 
 #Three (3) Advantages
-Widest selection of services among all cloud providers.
-Long track record, making it reliable and proven.
-Extensive resources, tutorials, and community support.
+* Widest selection of services among all cloud providers.
+* Long track record, making it reliable and proven.
+* Extensive resources, tutorials, and community support.
 
 #Typical Enterprise Use Cases
 
